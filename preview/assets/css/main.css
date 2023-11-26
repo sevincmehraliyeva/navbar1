@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  background-color: #343A40;
+}
+
+nav {
+  width: 80%;
+  margin: auto;
+  background-color: #343A40;
+}
+nav ul {
+  gap: 20px;
+}
+
+form {
+  gap: 10px;
+}
